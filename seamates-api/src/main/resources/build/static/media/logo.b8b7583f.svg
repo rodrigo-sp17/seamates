@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)"
+   sodipodi:docname="logo2.svg">
+  <defs
+     id="defs2">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1032"
+       x="-1.1454545e-06"
+       width="1.0000023"
+       y="-1.26e-06"
+       height="1.0000025">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="5.5562498e-05"
+         id="feGaussianBlur1034" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.1145335"
+     inkscape:cx="353.07642"
+     inkscape:cy="514.01575"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer6"
+     inkscape:document-rotation="0"
+     showgrid="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1014"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid931" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <ellipse
+       style="fill:#76b6c4;fill-opacity:1;stroke:#000000;stroke-width:3.284;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path40"
+       cx="106.00001"
+       cy="136"
+       ry="95.808151"
+       rx="95.808159"
+       inkscape:export-filename="/home/rodrigo-sp17/Downloads/AppIcons/android/mipmap-xxxhdpi/ic_launcher.png"
+       inkscape:export-xdpi="640.01642"
+       inkscape:export-ydpi="640.01642" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 14.762434,163.02608 -0.820813,0.33427"
+       id="path907"
+       inkscape:export-filename="/home/rodrigo-sp17/Downloads/AppIcons/android/mipmap-xxxhdpi/ic_launcher.png"
+       inkscape:export-xdpi="640.01642"
+       inkscape:export-ydpi="640.01642" />
+    <a
+       id="a970"
+       transform="translate(7.5984939,5.02485)" />
+    <ellipse
+       style="opacity:1;fill:#edb300;fill-opacity:1;stroke:none;stroke-width:0.165;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal;filter:url(#filter1032)"
+       id="path1025"
+       cx="100.61744"
+       cy="122.19321"
+       rx="58.208332"
+       ry="52.916664"
+       transform="matrix(1.168215,0,0,1.2850363,-12.904264,-22.085239)"
+       inkscape:export-filename="/home/rodrigo-sp17/Downloads/AppIcons/android/mipmap-xxxhdpi/ic_launcher.png"
+       inkscape:export-xdpi="640.01642"
+       inkscape:export-ydpi="640.01642" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="Layer 4" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Layer 3">
+    <path
+       id="rect964"
+       style="fill:#def3f6;fill-opacity:1;stroke:none;stroke-width:0.331692;stroke-opacity:1"
+       d="m 62.937596,104.98598 c 2.979423,-2.50486 8.590656,-2.726 8.590656,-2.726 h 26.793256 23.416912 v 11.51084 H 98.321508 l -0.425675,82.02085 c 0,0 3.86e-4,5.09388 -4.791929,5.18343 -5.791404,0.10823 -5.791404,-5.18343 -5.791404,-5.18343 l -0.69944,-37.62189 h -1.67264 l -0.273753,37.62189 c 0,0 -1.322023,5.00309 -6.074156,5.13266 -5.832094,0.159 -7.155011,-5.13266 -7.155011,-5.13266 l 0.121827,-77.49522 v -2.88123 H 69.88669 L 63.5,157.42708 c 0,0 -2.726727,6.89729 -7.377108,5.41368 -4.529142,-1.44493 -4.529142,-6.73659 -4.529142,-6.73659 l 6.011404,-40.96528 c 0,0 1.996874,-7.34865 5.332442,-10.15291 z"
+       sodipodi:nodetypes="sccccccsccccscccccsccs"
+       inkscape:export-filename="/home/rodrigo-sp17/Downloads/AppIcons/android/mipmap-xxxhdpi/ic_launcher.png"
+       inkscape:export-xdpi="640.01642"
+       inkscape:export-ydpi="640.01642" />
+    <ellipse
+       style="fill:#def3f6;fill-opacity:1;stroke:none;stroke-width:0.331692;stroke-opacity:1"
+       id="path997-6"
+       cx="127.57809"
+       cy="89.641373"
+       rx="13.381093"
+       ry="13.155247"
+       inkscape:export-filename="/home/rodrigo-sp17/Downloads/AppIcons/android/mipmap-xxxhdpi/ic_launcher.png"
+       inkscape:export-xdpi="640.01642"
+       inkscape:export-ydpi="640.01642" />
+    <ellipse
+       style="fill:#def3f6;fill-opacity:1;stroke:none;stroke-width:0.331692;stroke-opacity:1"
+       id="path997"
+       cx="83.609848"
+       cy="90.224922"
+       rx="13.381093"
+       ry="13.155247"
+       inkscape:export-filename="/home/rodrigo-sp17/Downloads/AppIcons/android/mipmap-xxxhdpi/ic_launcher.png"
+       inkscape:export-xdpi="640.01642"
+       inkscape:export-ydpi="640.01642" />
+    <path
+       id="rect964-7"
+       style="fill:#def3f6;fill-opacity:1;stroke:none;stroke-width:0.331692;stroke-opacity:1"
+       d="m 149.15474,104.98599 c -2.97942,-2.50486 -8.59065,-2.726 -8.59065,-2.726 H 113.77083 90.35392 v 11.51084 h 23.41691 l 0.42567,82.02085 c 0,0 -3.8e-4,5.09388 4.79193,5.18343 5.79141,0.10823 5.79141,-5.18343 5.79141,-5.18343 l 0.69944,-37.62189 h 1.67264 l 0.27375,37.62189 c 0,0 1.32202,5.00309 6.07416,5.13266 5.83209,0.159 7.15501,-5.13266 7.15501,-5.13266 l -0.12183,-77.49522 v -2.88123 h 1.67264 l 6.38669,42.01186 c 0,0 2.72673,6.89729 7.37711,5.41368 4.52914,-1.44493 4.52914,-6.73659 4.52914,-6.73659 l -6.0114,-40.96528 c 0,0 -1.99688,-7.34865 -5.33245,-10.15291 z"
+       sodipodi:nodetypes="sccccccsccccscccccsccs"
+       inkscape:export-filename="/home/rodrigo-sp17/Downloads/AppIcons/android/mipmap-xxxhdpi/ic_launcher.png"
+       inkscape:export-xdpi="640.01642"
+       inkscape:export-ydpi="640.01642" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="Layer 5">
+    <path
+       id="rect1002"
+       style="opacity:1;fill:#064273;fill-opacity:1;stroke:#ffffff;stroke-width:0.407901;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 83.34375,70.114583 c 6.377378,-0.134056 14.054665,4.910962 14.636561,13.735806 0.0434,0.656076 2.836109,1.721497 2.836109,1.721497 v 1.972593 h 1.30132 l -35.135299,-2e-6 -6e-6,-1.1e-5 -5e-6,-1.97258 c 0,0 2.030478,-1.46646 2.080683,-2.122031 0.725395,-9.472333 8.251924,-13.208554 14.280637,-13.335272 z"
+       sodipodi:nodetypes="ssccccccss"
+       inkscape:export-filename="/home/rodrigo-sp17/Downloads/AppIcons/android/mipmap-xxxhdpi/ic_launcher.png"
+       inkscape:export-xdpi="640.01642"
+       inkscape:export-ydpi="640.01642" />
+    <path
+       id="rect1069"
+       style="opacity:1;fill:#ffffff;fill-opacity:0.956863;stroke:#ffffff;stroke-width:0.246949;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       d="m 76.263495,71.966667 1.203642,-0.54541 c 0.299066,-0.135517 0.312044,-0.442727 0.313239,0.679105 l 0.0071,6.681973 c 3.5e-4,0.328337 -0.264329,0.592666 -0.592666,0.592666 h -0.931333 c -0.328336,0 -0.592665,-0.264329 -0.592665,-0.592666 v -6.223002 c 0,-0.328337 0.2936,-0.45715 0.592665,-0.592666 z"
+       sodipodi:nodetypes="sssssssss"
+       inkscape:export-filename="/home/rodrigo-sp17/Downloads/AppIcons/android/mipmap-xxxhdpi/ic_launcher.png"
+       inkscape:export-xdpi="640.01642"
+       inkscape:export-ydpi="640.01642" />
+    <path
+       id="rect1069-5"
+       style="fill:#ffffff;fill-opacity:0.956863;stroke:#ffffff;stroke-width:0.276098;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       d="m 83.026255,70.114586 0.582078,-3e-6 c 0.265179,0.161713 0.733992,-0.264583 0.740832,0.740832 l 0.05292,7.778754 c 0.0028,0.410412 -0.330411,0.740832 -0.740832,0.740832 h -0.635 c -0.410421,0 -0.740565,-0.330411 -0.740832,-0.740832 l -0.0054,-8.261073 c -2.67e-4,-0.410421 2.122027,-0.258513 0.746199,-0.25851 z"
+       sodipodi:nodetypes="ccssssssc"
+       inkscape:export-filename="/home/rodrigo-sp17/Downloads/AppIcons/android/mipmap-xxxhdpi/ic_launcher.png"
+       inkscape:export-xdpi="640.01642"
+       inkscape:export-ydpi="640.01642" />
+    <path
+       id="rect1069-3"
+       style="fill:#ffffff;fill-opacity:0.956863;stroke:#ffffff;stroke-width:0.24695;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       d="m 89.435826,71.681408 0.723594,0.285259 c 0.305458,0.120419 0.592666,0.264329 0.592666,0.592666 v 6.223002 c 0,0.328337 -0.264329,0.592666 -0.592666,0.592666 h -0.931333 c -0.328336,0 -0.596038,-0.264346 -0.592665,-0.592666 l 0.07748,-7.540961 c 0.0034,-0.32832 0.417469,0.319615 0.722926,0.440034 z"
+       sodipodi:nodetypes="sssssssss"
+       inkscape:export-filename="/home/rodrigo-sp17/Downloads/AppIcons/android/mipmap-xxxhdpi/ic_launcher.png"
+       inkscape:export-xdpi="640.01642"
+       inkscape:export-ydpi="640.01642" />
+    <path
+       style="fill:none;stroke:#064273;stroke-width:0.523931px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 14.762434,163.02608 c 85.392976,-32.38831 68.483327,49.34244 182.329226,-1.58563 l 0.92527,-0.51748"
+       id="path897"
+       inkscape:export-filename="/home/rodrigo-sp17/Downloads/AppIcons/android/mipmap-xxxhdpi/ic_launcher.png"
+       inkscape:export-xdpi="640.01642"
+       inkscape:export-ydpi="640.01642" />
+    <path
+       style="opacity:1;fill:#76b6c4;fill-opacity:1;stroke:#064273;stroke-width:3.10299;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       d="m 268.51332,733.28958 c -30.68667,-17.72244 -55.77051,-39.58637 -76.7902,-66.93295 -15.13248,-19.68734 -27.72443,-42.25559 -36.40621,-65.25 -1.95293,-5.17249 -3.58805,-9.92387 -3.45943,-10.05249 0.15935,-0.15935 4.50209,-0.77744 10.12506,-1.44107 10.03773,-1.18466 20.5857,-1.88106 28.49503,-1.88129 4.50685,-1.4e-4 4.82759,0.0299 4.66948,0.43735 -0.33303,0.85826 -0.13423,4.60657 0.37794,7.12611 1.82674,8.98621 6.34979,15.49423 13.11333,18.86819 6.1278,3.05682 12.14085,2.81104 17.625,-0.72041 2.58742,-1.66613 6.59383,-5.87373 8.92973,-9.37815 2.83537,-4.25373 4.94392,-8.53729 5.16521,-10.49321 l 0.17296,-1.52875 3.30355,0.70617 c 7.59027,1.62251 13.94056,3.28241 21.61605,5.65024 l 4.5625,1.40749 -0.0176,66.64991 c -0.01,36.65745 -0.094,66.83726 -0.1875,67.06625 -0.15179,0.37189 -0.29004,0.34697 -1.29493,-0.23339 z"
+       id="path1217"
+       transform="scale(0.26458333)"
+       inkscape:export-filename="/home/rodrigo-sp17/Downloads/AppIcons/android/mipmap-xxxhdpi/ic_launcher.png"
+       inkscape:export-xdpi="640.01642"
+       inkscape:export-ydpi="640.01642" />
+    <path
+       style="opacity:1;fill:#064273;fill-opacity:1;stroke:#064273;stroke-width:6.20598;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       d="m 377.44484,868.96377 c -73.98586,-5.25041 -142.85962,-32.17114 -200,-78.17413 C 123.66848,747.49498 83.68823,689.3137 62.150762,623.00785 c -1.20308,-3.70384 -2.022832,-6.8841 -1.821669,-7.06725 0.988926,-0.90038 25.75133,-9.21942 39.115749,-13.14112 14.524508,-4.26212 45.834688,-11.35133 49.887678,-11.2955 0.64179,0.009 1.2227,1.14087 2.27144,4.42636 0.77502,2.42797 2.48658,7.09137 3.80347,10.36312 18.48074,45.91442 49.61213,85.47934 89.8746,114.22173 7.21022,5.1472 21.88911,14.38916 23.4938,14.79191 1.05022,0.26359 1.16901,0.57626 1.16901,3.0769 0,4.04961 2.7248,9.35337 6.99113,13.6081 5.17398,5.15989 11.12136,7.5 19.06125,7.5 5.46482,0 9.76241,-1.26786 13.59126,-4.00964 l 2.83124,-2.02741 7.13756,2.26017 c 14.1486,4.48026 31.40691,8.06638 48.63756,10.10644 9.51665,1.12674 42.55661,1.29589 52,0.26622 22.42379,-2.44502 44.41433,-7.37428 61.89955,-13.875 l 4.54325,-1.68911 2.8848,2.75164 c 4.24376,4.04786 8.31813,5.79827 14.21429,6.10668 9.04508,0.47312 15.17966,-1.74821 20.97177,-7.59386 2.30493,-2.32624 4.11097,-4.73999 5.25,-7.01658 1.65806,-3.31397 1.74761,-3.76949 1.98634,-10.10319 l 0.25,-6.63275 7.3188,-4.95655 c 14.85006,-10.057 24.491,-18.05272 37.72825,-31.29 9.38405,-9.38405 16.816,-17.79027 22.81145,-25.80185 l 2.52955,-3.38022 4.306,-1.11599 c 35.9372,-9.31399 78.6151,-24.3196 121.03475,-42.55602 7.5508,-3.24614 13.8199,-5.81097 13.9312,-5.69963 0.55295,0.55291 -6.64275,21.8618 -11.3147,33.50665 -19.0472,47.47572 -49.7522,92.31223 -86.74165,126.66326 -33.54985,31.15675 -70.7398,54.7348 -112.40591,71.26422 -31.47164,12.48515 -62.31357,19.84611 -98.94774,23.61559 -9.09874,0.93621 -45.10902,1.38052 -55,0.6786 z"
+       id="path1251"
+       transform="scale(0.26458333)"
+       inkscape:export-filename="/home/rodrigo-sp17/Downloads/AppIcons/android/mipmap-xxxhdpi/ic_launcher.png"
+       inkscape:export-xdpi="640.01642"
+       inkscape:export-ydpi="640.01642" />
+    <path
+       style="opacity:1;fill:#064273;fill-opacity:1;stroke:#064273;stroke-width:6.20598;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       d="M 261.44484,726.84522 C 219.7243,700.41003 189.59796,667.58718 168.0014,625.03798 c -7.29086,-14.36434 -14.30477,-31.77444 -13.10061,-32.51865 0.3512,-0.21706 2.02354,-0.54635 3.7163,-0.73176 10.59774,-1.16078 18.64052,-1.80779 26.20275,-2.10789 l 8.625,-0.34229 0.007,2.45236 c 0.0107,3.55082 1.27935,8.40402 3.2891,12.58248 2.43964,5.07221 6.44872,9.07029 11.52636,11.49475 3.6872,1.76055 4.21802,1.87512 8.68767,1.87512 4.35889,0 5.03855,-0.13688 8.05626,-1.62249 5.7358,-2.82373 13.39729,-12.0145 16.25741,-19.50251 0.49191,-1.28785 1.12962,-2.12475 1.61874,-2.12435 1.29347,10e-4 10.71039,2.34315 18.43207,4.58431 l 7.125,2.06797 v 21.09084 c 0,35.23451 -0.64579,108.25634 -0.95738,108.25446 -0.16094,-10e-4 -2.88012,-1.64127 -6.04262,-3.64511 z"
+       id="path1253"
+       transform="scale(0.26458333)"
+       inkscape:export-filename="/home/rodrigo-sp17/Downloads/AppIcons/android/mipmap-xxxhdpi/ic_launcher.png"
+       inkscape:export-xdpi="640.01642"
+       inkscape:export-ydpi="640.01642" />
+    <path
+       style="opacity:1;fill:#064273;fill-opacity:1;stroke:#064273;stroke-width:6.20598;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       d="m 212.58786,613.79695 c -8.82666,-2.88516 -15.64302,-12.90817 -15.64302,-23.00202 v -2.80283 h 5.22277 c 2.87252,0 8.10377,0.23689 11.625,0.52641 8.19361,0.67371 23.76608,2.88743 24.33853,3.45988 2.45725,2.45725 -8.67215,18.09661 -14.9363,20.98893 -3.05601,1.41104 -7.71372,1.77534 -10.60698,0.82963 z"
+       id="path1255"
+       transform="scale(0.26458333)"
+       inkscape:export-filename="/home/rodrigo-sp17/Downloads/AppIcons/android/mipmap-xxxhdpi/ic_launcher.png"
+       inkscape:export-xdpi="640.01642"
+       inkscape:export-ydpi="640.01642" />
+    <path
+       style="opacity:1;fill:#064273;fill-opacity:1;stroke:#064273;stroke-width:6.20598;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       d="m 288.32582,755.02117 c -7.89113,-2.5226 -13.85699,-9.2965 -14.94331,-16.96729 -0.2553,-1.80278 -0.74609,-3.73544 -1.09063,-4.29479 -0.49616,-0.80549 -0.58705,-14.75198 -0.43705,-67.06 l 0.18939,-66.04301 5.82531,2.08819 c 10.44385,3.74379 21.9894,8.64508 36.00977,15.28676 l 6.68446,3.16654 -0.35805,59.27226 -0.35806,59.27227 -1.13309,2.84977 c -0.62321,1.56738 -1.85643,3.97699 -2.74049,5.35469 -1.42929,2.22734 -1.76104,2.47418 -2.9939,2.2276 -1.08839,-0.21768 -2.10255,0.21292 -4.71677,2.00269 -1.83164,1.25399 -4.49346,2.62542 -5.91516,3.04761 -3.55307,1.05515 -10.39612,0.95594 -14.02242,-0.20329 z"
+       id="path1257"
+       transform="scale(0.26458333)"
+       inkscape:export-filename="/home/rodrigo-sp17/Downloads/AppIcons/android/mipmap-xxxhdpi/ic_launcher.png"
+       inkscape:export-xdpi="640.01642"
+       inkscape:export-ydpi="640.01642" />
+    <path
+       style="opacity:1;fill:#064273;fill-opacity:1;stroke:#064273;stroke-width:6.20598;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       d="m 346.44484,758.95925 c -3.82476,-0.66201 -8.54453,-3.0918 -10.75209,-5.53531 -3.28163,-3.63237 -4.78536,-7.63929 -5.27716,-14.0618 -0.23669,-3.09102 -0.77782,-27.55754 -1.20249,-54.37004 -0.42468,-26.8125 -0.89947,-51.27219 -1.05508,-54.35487 l -0.28294,-5.60486 19.65988,9.63477 c 10.81293,5.29913 20.33488,9.90653 21.15988,10.23867 l 1.5,0.60388 -0.13877,46.8662 c -0.0831,28.07287 -0.34105,48.26971 -0.6432,50.36621 -1.04057,7.22019 -5.19421,13.14033 -10.65214,15.18241 -3.37574,1.26302 -8.50646,1.69409 -12.31589,1.03474 z"
+       id="path1259"
+       transform="scale(0.26458333)"
+       inkscape:export-filename="/home/rodrigo-sp17/Downloads/AppIcons/android/mipmap-xxxhdpi/ic_launcher.png"
+       inkscape:export-xdpi="640.01642"
+       inkscape:export-ydpi="640.01642" />
+    <path
+       style="opacity:1;fill:#064273;fill-opacity:1;stroke:#064273;stroke-width:6.20598;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       d="m 376.19484,763.01629 c -3.85,-0.21294 -9.18885,-0.68124 -11.86411,-1.04067 l -4.86412,-0.65352 2.0039,-0.89717 c 2.77932,-1.24434 7.0224,-5.64483 8.61329,-8.93283 3.02527,-6.25248 2.9206,-4.42227 3.22395,-56.375 0.15294,-26.19375 0.4151,-47.62496 0.58258,-47.62491 0.16748,4e-5 3.67951,1.47616 7.80451,3.28025 13.07683,5.71923 33.97724,13.10346 45.5,16.07542 l 3.5,0.90272 0.36699,36.74576 c 0.21844,21.87294 0.58128,37.96001 0.89645,39.74576 1.10527,6.26249 5.32284,12.22206 9.79364,13.83872 0.93111,0.33669 1.69292,0.7472 1.69292,0.91224 0,0.32739 -6.79833,1.49484 -17.75,3.04813 -5.62854,0.7983 -10.47761,1.02901 -24.75,1.17753 -9.7625,0.1016 -20.9,0.0105 -24.75,-0.20243 z"
+       id="path1261"
+       transform="scale(0.26458333)"
+       inkscape:export-filename="/home/rodrigo-sp17/Downloads/AppIcons/android/mipmap-xxxhdpi/ic_launcher.png"
+       inkscape:export-xdpi="640.01642"
+       inkscape:export-ydpi="640.01642" />
+    <path
+       style="opacity:1;fill:#064273;fill-opacity:1;stroke:#064273;stroke-width:6.20598;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       d="m 446.19379,757.3796 c -0.27442,-0.62563 -1.44534,-1.59221 -2.60204,-2.14797 -3.01863,-1.45035 -4.97907,-3.52588 -6.77377,-7.17144 l -1.57113,-3.19143 -0.35818,-13.56333 c -0.197,-7.45983 -0.48018,-24.60061 -0.6293,-38.09061 l -0.27112,-24.52728 9.1033,1.84662 c 7.8871,1.59992 17.31438,3.09319 26.72829,4.23374 l 2.625,0.31804 0.006,4.07808 c 0.0193,13.87252 -1.14437,62.00742 -1.54988,64.11057 -0.68195,3.53699 -3.02511,8.26622 -4.86099,9.81101 -1.16216,0.9779 -3.3811,1.7394 -8.94518,3.06982 -10.92275,2.61172 -10.32166,2.54422 -10.90067,1.22418 z"
+       id="path1263"
+       transform="scale(0.26458333)"
+       inkscape:export-filename="/home/rodrigo-sp17/Downloads/AppIcons/android/mipmap-xxxhdpi/ic_launcher.png"
+       inkscape:export-xdpi="640.01642"
+       inkscape:export-ydpi="640.01642" />
+    <path
+       style="opacity:1;fill:#064273;fill-opacity:1;stroke:#064273;stroke-width:6.20598;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       d="m 499.80359,755.4764 c -2.96641,-0.74571 -4.5583,-1.74634 -8.68985,-5.46227 -3.08741,-2.77684 -4.0218,-3.36835 -4.72574,-2.99161 -0.48258,0.25827 -0.9714,0.46958 -1.08627,0.46958 -0.11487,0 -0.91599,-1.53416 -1.78027,-3.40924 l -1.57142,-3.40923 -0.33351,-32.46577 -0.33352,-32.46576 9.20591,0.39469 c 8.52292,0.36542 30.91972,-0.20887 38.08092,-0.97644 l 2.875,-0.30815 v 24.77824 24.77825 l -1.22276,0.9167 c -1.1583,0.86838 -1.23989,1.27257 -1.54754,7.66671 -0.28798,5.98543 -0.48831,7.10823 -1.76858,9.91264 -1.97252,4.32078 -6.76744,9.0813 -11.26835,11.18754 -3.0261,1.41608 -3.93889,1.59745 -8.66264,1.72121 -2.90407,0.0761 -6.13119,-0.0756 -7.17138,-0.33709 z"
+       id="path1265"
+       transform="scale(0.26458333)"
+       inkscape:export-filename="/home/rodrigo-sp17/Downloads/AppIcons/android/mipmap-xxxhdpi/ic_launcher.png"
+       inkscape:export-xdpi="640.01642"
+       inkscape:export-ydpi="640.01642" />
+    <path
+       style="opacity:1;fill:#064273;fill-opacity:1;stroke:#064273;stroke-width:6.20598;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       d="m 534.94484,698.33633 v -23.68624 l 7.375,-0.85946 c 14.35334,-1.67269 32.70226,-4.83597 46.72303,-8.05486 4.16546,-0.9563 7.67136,-1.64095 7.79087,-1.52144 0.37367,0.37367 -7.14579,9.41807 -13.82197,16.62503 -14.61858,15.78081 -29.1946,28.5059 -44.19193,38.58022 l -3.875,2.60299 z"
+       id="path1267"
+       transform="scale(0.26458333)"
+       inkscape:export-filename="/home/rodrigo-sp17/Downloads/AppIcons/android/mipmap-xxxhdpi/ic_launcher.png"
+       inkscape:export-xdpi="640.01642"
+       inkscape:export-ydpi="640.01642" />
+    <path
+       style="opacity:1;fill:#064273;fill-opacity:1;stroke:#064273;stroke-width:6.20598;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       d="m 471.72327,751.1171 c 0.21198,-0.48125 0.89609,-2.3375 1.52024,-4.125 1.20948,-3.46382 1.22219,-3.76087 2.51752,-58.875 0.2704,-11.50524 0.3732,-12.625 1.15907,-12.625 0.79568,0 0.8879,1.47865 1.19284,19.125 0.18176,10.51875 0.3308,25.31885 0.33119,32.8891 l 7.1e-4,13.76411 1.7638,3.68043 c 0.97009,2.02423 1.70134,3.73097 1.625,3.79273 -0.27614,0.22344 -9.65218,3.24863 -10.06853,3.24863 -0.23499,0 -0.25382,-0.39375 -0.0418,-0.875 z"
+       id="path1269"
+       transform="scale(0.26458333)"
+       inkscape:export-filename="/home/rodrigo-sp17/Downloads/AppIcons/android/mipmap-xxxhdpi/ic_launcher.png"
+       inkscape:export-xdpi="640.01642"
+       inkscape:export-ydpi="640.01642" />
+    <path
+       style="opacity:1;fill:#064273;fill-opacity:1;stroke:#064273;stroke-width:6.20598;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       d="m 325.06984,753.83913 c -3.91875,-1.14627 -7.125,-2.2524 -7.125,-2.45807 0,-0.20566 0.69994,-1.51149 1.55542,-2.90182 0.85548,-1.39033 2.08824,-4.03746 2.73945,-5.88251 l 1.18404,-3.35463 0.0105,-32.54277 c 0.0131,-40.53243 0.60976,-85.24347 1.07156,-80.30317 0.18786,2.00974 0.59211,17.30974 0.89834,34 1.10084,59.99926 1.58809,79.39672 2.07191,82.48296 0.66702,4.25496 2.20968,8.197 4.25779,10.88017 0.93739,1.22804 1.42458,2.21732 1.08265,2.19838 -0.34193,-0.0189 -3.82795,-0.97227 -7.7467,-2.11854 z"
+       id="path1271"
+       transform="scale(0.26458333)"
+       inkscape:export-filename="/home/rodrigo-sp17/Downloads/AppIcons/android/mipmap-xxxhdpi/ic_launcher.png"
+       inkscape:export-xdpi="640.01642"
+       inkscape:export-ydpi="640.01642" />
+  </g>
+</svg>
