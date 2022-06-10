@@ -1,16 +1,19 @@
-name: Build and Test
+name: SeaMates API Test
 
 on:
-  push:
-    branches:
-      - master
+  pull_request:
+    paths:
+    - 'seamates-api/**' 
+
 
 jobs:
-  build:
+  test:
+    name: Test
     runs-on: ubuntu-latest
 
     steps:
       - uses: actions/checkout@v2
+      
       - name: Set up JDK 11
         uses: actions/setup-java@v1
         with:
@@ -28,5 +31,5 @@ jobs:
         with:
           redis-version: ${{ matrix.redis-version }}
 
-      - name: Test and Build
+      - name: Test
         run: mvn -DrepoToken=${{ secrets.COVERALLS_TOKEN}} --batch-mode --update-snapshots verify jacoco:report coveralls:report
