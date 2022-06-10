@@ -2,7 +2,7 @@ name: SeaMates API Test
 
 on:
   pull_request:
-    type: [opened, reopened]
+    types: [opened, reopened]
 
 jobs:
   test:
