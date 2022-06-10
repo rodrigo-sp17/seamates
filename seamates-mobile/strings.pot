@@ -1,0 +1,420 @@
+msgid "Not an auth user!"
+msgstr ""
+
+msgid "User is local"
+msgstr ""
+
+msgid "Could not connect to server. Please check your internet connection"
+msgstr ""
+
+msgid "Invalid data"
+msgstr ""
+
+msgid "The username and email already exist"
+msgstr ""
+
+msgid "The username already exists"
+msgstr ""
+
+msgid "The email already exists"
+msgstr ""
+
+msgid "Ops, something is wrong with the server!"
+msgstr ""
+
+msgid "Ops, the server responded unexpectedly!"
+msgstr ""
+
+msgid "Request timed out"
+msgstr ""
+
+msgid "Failed to fetch user info"
+msgstr ""
+
+msgid "Something seem wrong with the server..."
+msgstr ""
+
+msgid "Email already exists. Choose another one"
+msgstr ""
+
+msgid "Oops...something is wrong with the server!"
+msgstr ""
+
+msgid "Sync is unavailable in local mode"
+msgstr ""
+
+msgid "Sync forbidden - please log in again"
+msgstr ""
+
+msgid "Failed to fetch data"
+msgstr ""
+
+msgid "Failed to sync locally"
+msgstr ""
+
+msgid "Synced shifts cannot be deleted when in local mode"
+msgstr ""
+
+msgid "Some items could not be deleted"
+msgstr ""
+
+msgid "Could not reach server. Are you online?"
+msgstr ""
+
+msgid "You are not unauthorized"
+msgstr ""
+
+msgid "Something went wrong..."
+msgstr ""
+
+msgid "Sync failed!"
+msgstr ""
+
+msgid "Request unauthorized"
+msgstr ""
+
+msgid "The user does not exist!"
+msgstr ""
+
+msgid "Trying to be friends with yourself? Nice!"
+msgstr ""
+
+msgid "Request failed!"
+msgstr ""
+
+msgid "The request does not exist!"
+msgstr ""
+
+msgid "Could not accept!"
+msgstr ""
+
+msgid "Unfriending failed!"
+msgstr ""
+
+msgid "The friend does not exist!"
+msgstr ""
+
+msgid "Could not remove friend!"
+msgstr ""
+
+msgid "Available Friends"
+msgstr ""
+
+msgid "Not available in local mode"
+msgstr ""
+
+msgid "No friends available"
+msgstr ""
+
+msgid "Error loading friends! Please, try again!"
+msgstr ""
+
+msgid "Enter a new value"
+msgstr ""
+
+msgid "CANCEL"
+msgstr ""
+
+msgid "SAVE"
+msgstr ""
+
+msgid "SAVE CHANGES"
+msgstr ""
+
+msgid "Edition failed!"
+msgstr ""
+
+msgid "Edition failed"
+msgstr ""
+
+msgid "The email already exists. Please choose another one"
+msgstr ""
+
+msgid "Unexpected server response"
+msgstr ""
+
+msgid "Deletion failed"
+msgstr ""
+
+msgid "Sorry, the deletion was not authorized"
+msgstr ""
+
+msgid ""
+"Sorry, deletion could not be performed at this moment. Could you try "
+"logging in again?"
+msgstr ""
+
+msgid "Profile Info"
+msgstr ""
+
+msgid "Logged as Local User"
+msgstr ""
+
+msgid "Username"
+msgstr ""
+
+msgid "Name"
+msgstr ""
+
+msgid "Email"
+msgstr ""
+
+msgid "DELETE ACCOUNT"
+msgstr ""
+
+msgid "UPGRADE ACCOUNT"
+msgstr ""
+
+msgid ""
+"Are you sure you want to logout?\n"
+"All your un-synced modifications will be discarded."
+msgstr ""
+
+msgid "YES, LOG ME OUT"
+msgstr ""
+
+msgid "Account deletion"
+msgstr ""
+
+msgid ""
+"This actions is permanent.\n"
+"Please confirm your password on the field below to allow deletion:"
+msgstr ""
+
+msgid "YES, DELETE MY ACCOUNT"
+msgstr ""
+
+msgid "Login failed"
+msgstr ""
+
+msgid "Incorrect username/email and/or password"
+msgstr ""
+
+msgid "Something went wrong!\n"
+msgstr ""
+
+msgid "Email or Username"
+msgstr ""
+
+msgid "Password"
+msgstr ""
+
+msgid "Upgrade Successful"
+msgstr ""
+
+msgid "Do you want to synchronize your local data with your online account?"
+msgstr ""
+
+msgid "Sorry, we could not sync your data :("
+msgstr ""
+
+msgid "YES"
+msgstr ""
+
+msgid "Calendar"
+msgstr ""
+
+msgid "Start of unavailability"
+msgstr ""
+
+msgid "Boarding day"
+msgstr ""
+
+msgid "Leaving day"
+msgstr ""
+
+msgid "End of unavailability"
+msgstr ""
+
+msgid "Shift"
+msgstr ""
+
+msgid "Add a shift"
+msgstr ""
+
+msgid "Invalid date"
+msgstr ""
+
+msgid "Please check your boarding date"
+msgstr ""
+
+msgid "Unavailability can't start after boarding date"
+msgstr ""
+
+msgid "Boarding date is mandatory"
+msgstr ""
+
+msgid "Please check your leaving date"
+msgstr ""
+
+msgid "You can't board after you leave"
+msgstr ""
+
+msgid "Leaving date is mandatory if cycle is not fulfilled"
+msgstr ""
+
+msgid "Please check your dates"
+msgstr ""
+
+msgid "You can't be available before you leave"
+msgstr ""
+
+msgid "Are you sure you typed numbers?"
+msgstr ""
+
+msgid "Isn't 3 years too much for a shift?"
+msgstr ""
+
+msgid "You can't have a negative cycle day"
+msgstr ""
+
+msgid "Sorry, only 10 repeats are allowed for each input"
+msgstr ""
+
+msgid "You can't have negative repeats"
+msgstr ""
+
+msgid "Pre-boarding meetings, trainings, quarantines, etc..."
+msgstr ""
+
+msgid "Boarding date"
+msgstr ""
+
+msgid "The date you will actually board the vehicle"
+msgstr ""
+
+msgid "Days on board"
+msgstr ""
+
+msgid "These days will be added to your dates"
+msgstr ""
+
+msgid "Leaving date"
+msgstr ""
+
+msgid "The date you will actually leave the vehicle"
+msgstr ""
+
+msgid "The date (exclusive) after leaving in which you will be available for events"
+msgstr ""
+
+msgid "Times to repeat"
+msgstr ""
+
+msgid "Use 0 or blank to not repeat the shift"
+msgstr ""
+
+msgid "Add shift"
+msgstr ""
+
+msgid "Friends"
+msgstr ""
+
+msgid "Friendship requested!"
+msgstr ""
+
+msgid "Friendship accepted!"
+msgstr ""
+
+msgid "Requests"
+msgstr ""
+
+msgid "ACCEPT"
+msgstr ""
+
+msgid "On land"
+msgstr ""
+
+msgid "On sea"
+msgstr ""
+
+msgid "Remove friendship"
+msgstr ""
+
+msgid "Request friendship"
+msgstr ""
+
+msgid "Type the username of the friend you want to add:"
+msgstr ""
+
+msgid "REQUEST FRIENDSHIP"
+msgstr ""
+
+msgid "UNFRIEND"
+msgstr ""
+
+msgid "Could not fetch user information"
+msgstr ""
+
+msgid "Sorry, something went wrong. Please try again!"
+msgstr ""
+
+msgid "You are not authorized to signup"
+msgstr ""
+
+msgid "Signup failed"
+msgstr ""
+
+msgid "SIGNUP"
+msgstr ""
+
+msgid "Shifts"
+msgstr ""
+
+msgid "Profile"
+msgstr ""
+
+msgid "Continue with Facebook"
+msgstr ""
+
+msgid "Login with email"
+msgstr ""
+
+msgid "Signup"
+msgstr ""
+
+msgid "Continue offline"
+msgstr ""
+
+msgid "Remain in local mode"
+msgstr ""
+
+msgid "Forgot your password?"
+msgstr ""
+
+msgid "Entering in Local mode"
+msgstr ""
+
+msgid ""
+"You are now going in local mode.\n"
+"\n"
+"In this mode, you will not be able to:\n"
+"- Add friends\n"
+"- View friends shifts\n"
+"- Invite friends to events\n"
+"- Sync with the cloud\n"
+"\n"
+"However, don't worry!\n"
+"You can add an account later and sync your shifts! :)"
+msgstr ""
+
+msgid "GOT IT!"
+msgstr ""
+
+msgid "YES, LOG ME OUT!"
+msgstr ""
+
+msgid "Deleted!"
+msgstr ""
+
+msgid "Please login to confirm your registration"
+msgstr ""
+
+msgid "Password confirmation is mandatory"
+msgstr ""
+
+msgid "Confirm password does not match password"
+msgstr ""
+
+msgid "Confirm Password"
+msgstr ""
