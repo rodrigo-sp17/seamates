@@ -3,9 +3,6 @@ name: SeaMates API Test
 on:
   pull_request:
     type: [opened, reopened]
-    paths:
-    - 'seamates-api/**' 
-
 
 jobs:
   test:
