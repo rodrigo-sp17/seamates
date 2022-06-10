@@ -3,8 +3,11 @@ name: SeaMates API Test
 on:
   pull_request:
     paths:
-    - 'seamates-api/**' 
+      - 'seamates-api/**'
 
+defaults:
+  run:
+    working-directory: seamates-api
 
 jobs:
   test:
