@@ -1,0 +1,22 @@
+services:  
+  postgres:
+    image: postgres:14
+    ports:
+      - 5432:5432
+    environment:
+      POSTGRES_PASSWORD: password
+    volumes:
+      - postgres-data:/etc/data
+    
+  redis:
+    image: redis:7-alpine
+    ports:
+      - 6379:6379
+    volumes:
+      - redis-data:/etc/data
+  
+volumes:
+  postgres-data:
+    driver: local
+  redis-data:
+    driver: local
