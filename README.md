@@ -1,2 +1,2 @@
-# seamates
+# SeaMates
 SeaMates project monorepo
