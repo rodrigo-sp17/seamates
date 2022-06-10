@@ -5,6 +5,10 @@ on:
     paths:
       - 'seamates-api/**'
 
+defaults:
+  run:
+    working-directory: seamates-api
+
 jobs:
   test:
     name: Test
