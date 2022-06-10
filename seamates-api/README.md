@@ -2,7 +2,7 @@
 <img height="150" src="src/main/resources/build/logo192.png"/>
 </p>
 
-# Marine Scheduler API
+# SeaMates API
 ![Badge](https://img.shields.io/github/workflow/status/rodrigo-sp17/marine-scheduler/Build%20and%20Test)
 ![Badge](https://img.shields.io/coveralls/github/rodrigo-sp17/marine-scheduler)
 ![Badge](https://img.shields.io/github/last-commit/rodrigo-sp17/mscheduler)
