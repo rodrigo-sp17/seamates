@@ -12,7 +12,11 @@ services:
     image: redis:7-alpine
     ports:
       - 6379:6379
+    volumes:
+      - redis-data:/etc/data
   
 volumes:
   postgres-data:
+    driver: local
+  redis-data:
     driver: local
