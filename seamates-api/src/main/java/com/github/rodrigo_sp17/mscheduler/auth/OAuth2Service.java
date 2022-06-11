@@ -1,5 +1,6 @@
 package com.github.rodrigo_sp17.mscheduler.auth;
 
+import com.fasterxml.jackson.databind.ObjectMapper;
 import com.nimbusds.jose.util.JSONObjectUtils;
 import lombok.extern.slf4j.Slf4j;
 import org.apache.commons.codec.digest.HmacAlgorithms;
@@ -65,7 +66,7 @@ public class OAuth2Service {
             var hmac = HmacUtils.getInitializedMac(HmacAlgorithms.HMAC_SHA_256,
                     facebookSecret.getBytes());
 
-            var jsonData = JSONObjectUtils.toJSONString(data);
+            var jsonData = getJSONString(data);
             var payload = encoder.encode(jsonData.getBytes());
             hmac.update(payload);
             var sig = encoder.encodeToString(hmac.doFinal());
@@ -73,6 +74,15 @@ public class OAuth2Service {
         } catch (Exception e) {
             log.warn(e.toString());
             return null;
+        }
+    }
+
+    private String getJSONString(Map<?, ?> data) {
+        try {
+            var om = new ObjectMapper();
+            return om.writeValueAsString(data);
+        } catch (Exception e) {
+            return "";
         }
     }
 }
