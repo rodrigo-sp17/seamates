@@ -23,6 +23,7 @@ import java.util.stream.Collectors;
 @Slf4j
 @Controller
 @ControllerAdvice
+@SuppressWarnings("deprecation")
 public class GlobalErrorController implements ErrorController {
 
     // Ensures redirection to home page if the error is 403 or 404
@@ -59,7 +60,6 @@ public class GlobalErrorController implements ErrorController {
         return ResponseEntity.status(ex.getStatus()).body(body);
     }
 
-    @Override
     public String getErrorPath() {
         return null;
     }

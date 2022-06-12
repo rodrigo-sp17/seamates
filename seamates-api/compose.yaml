@@ -1,4 +1,4 @@
-services:  
+services:
   postgres:
     image: postgres:14
     ports:
@@ -7,14 +7,20 @@ services:
       POSTGRES_PASSWORD: password
     volumes:
       - postgres-data:/etc/data
-    
+
   redis:
     image: redis:7-alpine
     ports:
       - 6379:6379
     volumes:
       - redis-data:/etc/data
-  
+
+  mailhog:
+    image: mailhog/mailhog:latest
+    ports:
+      - 1025:1025
+      - 8025:8025
+
 volumes:
   postgres-data:
     driver: local

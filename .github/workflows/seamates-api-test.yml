@@ -35,4 +35,4 @@ jobs:
           redis-version: ${{ matrix.redis-version }}
 
       - name: Test
-        run: mvn -DrepoToken=${{ secrets.COVERALLS_TOKEN}} --batch-mode --update-snapshots verify jacoco:report coveralls:report
+        run: COVERALLS_REPO_TOKEN=${{ secrets.COVERALLS_TOKEN}} gradle test

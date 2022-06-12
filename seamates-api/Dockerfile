@@ -1,6 +1,23 @@
-FROM adoptopenjdk:11-jre-hotspot
-RUN addgroup --system spring && adduser --system spring && usermod -aG spring spring
-USER spring:spring
-ARG JAR_FILE=target/*.jar
-COPY ${JAR_FILE} app.jar
-CMD ["java", "-jar", "/app.jar"]
+#############################################
+#   Build Stage
+#############################################
+FROM gradle:7.4-jdk11-alpine as build
+
+RUN mkdir -p /app
+WORKDIR /app
+
+COPY --chown=gradle:gradle . ./
+RUN gradle assemble
+
+
+#############################################
+#   Run Stage
+#############################################
+FROM openjdk:11-jre as run
+
+RUN mkdir /app
+
+COPY --from=build /app/build/libs/*.jar /app/seamates-api.jar
+
+CMD ["java", "-jar", "-Dspring.profiles.active=dev", "/app/seamates-api.jar"]
+
