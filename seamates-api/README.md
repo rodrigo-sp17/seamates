@@ -46,11 +46,45 @@ provider.
 
 ## Getting Started
 For building the project, make sure you have:
-- [Maven](https://maven.apache.org/download.cgi) (at least 3.6.3)
-- [Redis](https://redis.io) (at least 6.2.3)
-- [PostgresSQL](https://www.postgresql.org/) (or any other SQL database - may need extra configuration)
+- [asdf](https://asdf-vm.com) Manages tool versions required to build and run the project. Alternatively, you have
+ to install the tools in `.tool-versions`
+- [Docker and Compose](https://docs.docker.com/get-docker/) required to run project dependencies.
 
-You will also have to set the following environment variables:
+
+### Building with Gradle
+1. Clone this repository.
+
+2. `cd` into the project root.
+
+3. Bring dependencies up:
+```sh
+docker-compose up -d
+```
+
+4. Run the server with Gradle command:
+```sh
+SPRING_PROFILES_ACTIVE=dev gradle bootRun
+```
+
+5. Done! You can start sending HTTP requests to http://localhost:8080/api, or going to http://localhost:8080/ in
+   your browser and checking the web app.
+
+
+### Building with Docker
+1. Clone this repository.
+
+2. `cd` into the project root.
+
+3. Build the docker image from the project's Dockerfile:
+
+   `docker build -t <YOUR_IMAGE_NAME> .`
+
+4. Run the docker image with the environment variables you have set above. In this case, I have put them on a file
+   called `env.list`:
+
+   `docker run --env-file env.list <YOUR_IMAGE_NAME>`
+
+The required env values for the production build are:
 ```sh
 SPRING_DATABASE_URL
 MAIL_USERNAME
@@ -59,45 +93,9 @@ JWT_SECRET
 FACEBOOK_ID
 FACEBOOK_SECRET
 REDIS_URL
-PORT
 ```
 
-### Building with Docker
-1. Clone this repository.
-
-2. `cd` into the project root.
-
-3. Build with Maven:
-
-   `mvn clean package`
-
-4. Create a docker image from the project's Dockerfile:
-
-   `docker build -t <YOUR_IMAGE_NAME> .`
-
-5. Run the docker image with the environment variables you have set above. In this case, I have put them on a file
-   called `env.list`. The `--net=host` flag allows us to use a local database listening on the host's port:
-
-   `docker run --env-file env.list --net=host <YOUR_IMAGE_NAME>`
-
-6. Done! You can start sending HTTP requests to http://localhost:<PORT>/api, or going to http://localhost:<PORT>/ in
-   your browser and checking the web app.
-
-
-
-### Building with Maven
-1. Make sure you have [JDK 11](https://www.oracle.com/java/technologies/javase-downloads.html)
-
-2. Clone this repository.
-
-3. `cd` into the project root.
-
-4. Run the following command:
-```sh
-mvn spring-boot:run
-```
-
-6. Done! You can start sending HTTP requests to http://localhost:PORT/api, or going to http://localhost:PORT/ in
+5. Done! You can start sending HTTP requests to http://localhost:8080>/api, or going to http://localhost:8080/ in
    your browser and checking the web app.
 
 
