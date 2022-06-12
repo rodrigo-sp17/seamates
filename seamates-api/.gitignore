@@ -9,6 +9,7 @@ env.list
 .gradle
 **/build/
 !src/**/build/
+**/bin/
 
 # Ignore Gradle GUI config
 gradle-app.setting
