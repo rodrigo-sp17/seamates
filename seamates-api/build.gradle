@@ -4,6 +4,8 @@ plugins {
   id "io.freefair.lombok" version "6.5.0-rc1"
   id 'java'
   id 'maven-publish'
+  id 'jacoco'
+  id 'com.github.kt3k.coveralls' version '2.12.0'
 }
 
 repositories {
@@ -49,4 +51,11 @@ tasks.withType(JavaCompile) {
 
 tasks.named('test') {
   useJUnitPlatform()
+}
+
+jacocoTestReport {
+    reports {
+        xml.enabled = true // coveralls plugin depends on xml format report
+        html.enabled = true
+    }
 }
